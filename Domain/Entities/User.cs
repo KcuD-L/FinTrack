@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using System.Transactions;
-namespace FinTrack.Entities
+namespace FinTrack.Domain.Entities
 
 {
     public class User : IdentityUser
